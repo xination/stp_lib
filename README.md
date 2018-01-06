@@ -9,4 +9,4 @@ I come across that VIKAR program ( Virtual Instrumentation for Kinematics and Re
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-please see <<a href="http://peiluan-tai.com/programs/stp_lib.html"> here </a> for how to use it.
+please see <a href="http://peiluan-tai.com/programs/stp_lib.html"> here </a> for how to use it.
